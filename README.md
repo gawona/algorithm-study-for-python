@@ -32,12 +32,12 @@
   <tr>
     <td align="center"><a href="https://github.com/yasisicoco"><b>Jinwoo Kim</b></a></td>
     <td align="center"><a href="https://github.com/gawona"><b>Gawon Jang</b></a></td>
-    <td align="center"><a href="https://github.com/miryang1016"><b>Miryang Kim</b></a></td>
+    <td align="center"><a href="https://github.com/Me-Ryang"><b>Miryang Kim</b></a></td>
     <td align="center"><a href="https://github.com/sojeong32"><b>Sojeong Park</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://designzino.tistory.com/"><b>GGobuk_chip</b></a></td>
-    <td align="center"><a href="https://nowag.tistory.com/"><b>코딩하는 사람</b></a></td>
+    <td align="center"><a href="https://nowag.tistory.com/"><b>gawon BLOG</b></a></td>
     <td align="center"><a href="https://millstory.tistory.com/"><b>mill BLOG</b></a></td>
     <td align="center"><a href="https://sojeong-2.tistory.com/2"><b>sojeong BLOG</b></a></td>
   </tr>
