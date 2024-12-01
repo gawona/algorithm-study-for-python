@@ -26,7 +26,7 @@
  <tr>
     <td align="center"><a href="https://github.com/yasisicoco"><img src="https://avatars.githubusercontent.com/yasisicoco" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/gawona"><img src="https://avatars.githubusercontent.com/gawona" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/miryang1016"><img src="https://avatars.githubusercontent.com/miryang1016" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Me-Ryang"><img src="https://avatars.githubusercontent.com/miryang1016" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/sojeong32"><img src="https://avatars.githubusercontent.com/sojeong32" width="130px;" alt=""></a></td>
   </tr>
   <tr>
